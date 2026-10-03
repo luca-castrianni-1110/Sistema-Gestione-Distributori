@@ -1,0 +1,5 @@
+Model_Entity/Distributore.class
+Model_Entity/StatoDistributore.class
+BusinessLogic/DistributoreService.class
+BusinessLogic/MongoConfig.class
+Controller/DistributoreServlet.class
