@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Created-By: IntelliJ IDEA
-Built-By: lucacastrianni
-Build-Jdk: Homebrew OpenJDK 17.0.15 - aarch64
-
